@@ -1,0 +1,17 @@
+.nav0{
+    display:flex;
+    background-color:rgb(95, 18, 95);
+    justify-content: center;
+}
+.nav1{
+    margin:auto;
+    padding-right: 100px;
+    color: burlywood;
+}
+.nav2{
+margin: auto;
+padding-right: 100px;
+color: burlywood;
+
+}
+
